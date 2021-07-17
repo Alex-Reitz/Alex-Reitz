@@ -4,7 +4,9 @@
 
 ### What am I working on? Jobly: a full stack Javascript app built with React, Node, and Express
 
+#### My github email was not synced with my commit email until recently, github was not tracking my contributions correctly until Mid July
 [![Alex Reitz's Github Stats](https://github-readme-stats.vercel.app/api?username=Alex-Reitz)](https://github.com/Alex-Reitz/github-readme-stats)
+
 
 ## About me 
 * 👨‍💻 I'm a fullstack software engineer building apps in Python, Flask, React, Node, PostgreSQL, and Express.
