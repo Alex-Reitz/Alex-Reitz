@@ -12,6 +12,5 @@
 * 🌱 I'm about to graduate from Springboard's Software Engineering Career Track Program
 * ₿ Interested in cryptocurrencies and blockchain technology
 * 👀 Let's talk about DeFi
-* 🥾 Down time is spent hiking in the Adirondacks
 
   
