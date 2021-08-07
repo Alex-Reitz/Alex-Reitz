@@ -7,7 +7,7 @@
 
 
 ## About me 
-* 👨‍💻 I'm a fullstack software engineer building apps in Python, Flask, React, Node, PostgreSQL, and Express.
+* 👨‍💻 I'm a fullstack Software Engineer building apps in Python, Flask, React, Node, Express, and PostgreSQL
 * 🌱 I'm about to graduate from Springboard's Software Engineering Career Track Program
 * Interested in Ethereum, DeFi, and blockchain technology
 
