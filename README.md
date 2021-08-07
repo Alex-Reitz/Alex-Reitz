@@ -1,4 +1,4 @@
-# Hello! I'm *Alex Reitz* 👋
+# Hello! 👋
 
 ### I'm currently looking for work as a software engineer. Welcome to my github page!
 ### What am I working on? DeFi Signal, a full stack JavaScript app for seeing what's going on in the land of DeFi
