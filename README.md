@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alex Reitz</h1>
-<h3 align="center">A Software Engineer from NYS</h3>
 
 ## About me 
 * 👨‍💻 I'm a fullstack Software Engineer building apps in Python, Flask, React, Node, Express, and PostgreSQL
@@ -15,7 +14,10 @@
 * PostgreSQL
 * Python, Flask
 
-[![Alex Reitz's Github Stats](https://github-readme-stats.vercel.app/api?username=Alex-Reitz&count_private=true&hide=contribs,prs&show_icons=true&theme=calm)](https://github.com/Alex-Reitz/github-readme-stats)
+<h3 align="center">
+  [![Alex Reitz's Github Stats](https://github-readme-stats.vercel.app/api?username=Alex-Reitz&count_private=true&hide=contribs,prs&show_icons=true&theme=calm)](https://github.com/Alex-Reitz/github-readme-stats)
+</h3>
+
 
 
 
