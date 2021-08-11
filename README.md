@@ -14,9 +14,9 @@
 * PostgreSQL
 * Python, Flask
 
-<h3 align="center">
+
   [![Alex Reitz's Github Stats](https://github-readme-stats.vercel.app/api?username=Alex-Reitz&count_private=true&hide=contribs,prs&show_icons=true&theme=calm)](https://github.com/Alex-Reitz/github-readme-stats)
-</h3>
+
 
 
 
