@@ -7,6 +7,7 @@
 * 🔭 I’m currently working on [DeFi Signal](https://github.com/Alex-Reitz/DeFi-Signal-Frontend)
 * 📄 My Resume [https://resume.creddle.io/resume/2849qfnwa9d](https://resume.creddle.io/resume/2849qfnwa9d)
 
+## Contributions
   [![Alex Reitz's Github Stats](https://github-readme-stats.vercel.app/api?username=Alex-Reitz&count_private=true&hide=contribs,prs&show_icons=true&theme=calm)](https://github.com/Alex-Reitz/github-readme-stats)
 
 
