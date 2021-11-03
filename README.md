@@ -4,7 +4,7 @@
 * 👨‍💻 I'm a fullstack Software Engineer building apps in Python, Flask, React, Node, Express, and PostgreSQL
 * 🌱 I'm recently completed Springboard's Software Engineering Career Track
 * Interested in Ethereum, DeFi, and Web 3.0
-* 🔭 I’m currently continuing work on my second Capstone project for Springboard, [DeFi Signal](https://github.com/Alex-Reitz/DeFi-Signal-Frontend)
+* 🔭 I’m currently continuing work on my second capstone project for Springboard - [DeFi Signal](https://github.com/Alex-Reitz/DeFi-Signal-Frontend)
 * 📄 My Resume [https://resume.creddle.io/resume/2849qfnwa9d](https://resume.creddle.io/resume/2849qfnwa9d)
 
 ## Contributions
